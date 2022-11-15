@@ -1,6 +1,6 @@
 CMakeFiles/Assignment2.dir/src/Program.cpp.o: \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.cpp \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.h \
+  /Users/andrewplant/documents/csce441/assignment2/src/Program.cpp \
+  /Users/andrewplant/documents/csce441/assignment2/src/Program.h \
   /Users/andrewplant/Documents/csce441/glew-2.1.0/include/GL/glew.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stddef.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \

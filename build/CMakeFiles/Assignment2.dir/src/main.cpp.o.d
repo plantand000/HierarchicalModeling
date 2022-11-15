@@ -1,5 +1,5 @@
 CMakeFiles/Assignment2.dir/src/main.cpp.o: \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/main.cpp \
+  /Users/andrewplant/documents/csce441/assignment2/src/main.cpp \
   /Users/andrewplant/Documents/csce441/glew-2.1.0/include/GL/glew.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stddef.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \
@@ -410,7 +410,7 @@ CMakeFiles/Assignment2.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.h \
+  /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stack \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/deque \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.h
+  /Users/andrewplant/documents/csce441/assignment2/src/Program.h

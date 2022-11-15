@@ -1,10 +1,10 @@
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/Assignment2.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/edit_cache.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/rebuild_cache.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/list_install_components.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/install.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/install/local.dir
-/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/install/strip.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/Assignment2.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/edit_cache.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/rebuild_cache.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/list_install_components.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/install.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/install/local.dir
+/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/install/strip.dir
 /Users/andrewplant/documents/csce441/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
 /Users/andrewplant/documents/csce441/glfw-3.3.8/debug/CMakeFiles/edit_cache.dir
 /Users/andrewplant/documents/csce441/glfw-3.3.8/debug/CMakeFiles/rebuild_cache.dir

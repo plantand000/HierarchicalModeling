@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.24.1/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrewplant/documents/csce441/assignment2/SkeletonCode
+CMAKE_SOURCE_DIR = /Users/andrewplant/documents/csce441/assignment2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build
+CMAKE_BINARY_DIR = /Users/andrewplant/documents/csce441/assignment2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Assignment2.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/Assignment2.dir/progress.make
 include CMakeFiles/Assignment2.dir/flags.make
 
 CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o: CMakeFiles/Assignment2.dir/flags.make
-CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o: /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.cpp
+CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o: /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.cpp
 CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o -MF CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o.d -o CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o -MF CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o.d -o CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.cpp
 
 CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.cpp > CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.cpp > CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.i
 
 CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.cpp -o CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.cpp -o CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.s
 
 CMakeFiles/Assignment2.dir/src/Program.cpp.o: CMakeFiles/Assignment2.dir/flags.make
-CMakeFiles/Assignment2.dir/src/Program.cpp.o: /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.cpp
+CMakeFiles/Assignment2.dir/src/Program.cpp.o: /Users/andrewplant/documents/csce441/assignment2/src/Program.cpp
 CMakeFiles/Assignment2.dir/src/Program.cpp.o: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment2.dir/src/Program.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/Program.cpp.o -MF CMakeFiles/Assignment2.dir/src/Program.cpp.o.d -o CMakeFiles/Assignment2.dir/src/Program.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Assignment2.dir/src/Program.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/Program.cpp.o -MF CMakeFiles/Assignment2.dir/src/Program.cpp.o.d -o CMakeFiles/Assignment2.dir/src/Program.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/src/Program.cpp
 
 CMakeFiles/Assignment2.dir/src/Program.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/src/Program.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.cpp > CMakeFiles/Assignment2.dir/src/Program.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/src/Program.cpp > CMakeFiles/Assignment2.dir/src/Program.cpp.i
 
 CMakeFiles/Assignment2.dir/src/Program.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/src/Program.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/Program.cpp -o CMakeFiles/Assignment2.dir/src/Program.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/src/Program.cpp -o CMakeFiles/Assignment2.dir/src/Program.cpp.s
 
 CMakeFiles/Assignment2.dir/src/main.cpp.o: CMakeFiles/Assignment2.dir/flags.make
-CMakeFiles/Assignment2.dir/src/main.cpp.o: /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/main.cpp
+CMakeFiles/Assignment2.dir/src/main.cpp.o: /Users/andrewplant/documents/csce441/assignment2/src/main.cpp
 CMakeFiles/Assignment2.dir/src/main.cpp.o: CMakeFiles/Assignment2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment2.dir/src/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/main.cpp.o -MF CMakeFiles/Assignment2.dir/src/main.cpp.o.d -o CMakeFiles/Assignment2.dir/src/main.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Assignment2.dir/src/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Assignment2.dir/src/main.cpp.o -MF CMakeFiles/Assignment2.dir/src/main.cpp.o.d -o CMakeFiles/Assignment2.dir/src/main.cpp.o -c /Users/andrewplant/documents/csce441/assignment2/src/main.cpp
 
 CMakeFiles/Assignment2.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Assignment2.dir/src/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/main.cpp > CMakeFiles/Assignment2.dir/src/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrewplant/documents/csce441/assignment2/src/main.cpp > CMakeFiles/Assignment2.dir/src/main.cpp.i
 
 CMakeFiles/Assignment2.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Assignment2.dir/src/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/main.cpp -o CMakeFiles/Assignment2.dir/src/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrewplant/documents/csce441/assignment2/src/main.cpp -o CMakeFiles/Assignment2.dir/src/main.cpp.s
 
 # Object files for target Assignment2
 Assignment2_OBJECTS = \
@@ -127,7 +127,7 @@ Assignment2: CMakeFiles/Assignment2.dir/build.make
 Assignment2: /Users/andrewplant/documents/csce441/glfw-3.3.8/debug/src/libglfw3.a
 Assignment2: /Users/andrewplant/Documents/csce441/glew-2.1.0/lib/libGLEW.a
 Assignment2: CMakeFiles/Assignment2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Assignment2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Assignment2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/Assignment2.dir/clean:
 .PHONY : CMakeFiles/Assignment2.dir/clean
 
 CMakeFiles/Assignment2.dir/depend:
-	cd /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrewplant/documents/csce441/assignment2/SkeletonCode /Users/andrewplant/documents/csce441/assignment2/SkeletonCode /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/build/CMakeFiles/Assignment2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/andrewplant/documents/csce441/assignment2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrewplant/documents/csce441/assignment2 /Users/andrewplant/documents/csce441/assignment2 /Users/andrewplant/documents/csce441/assignment2/build /Users/andrewplant/documents/csce441/assignment2/build /Users/andrewplant/documents/csce441/assignment2/build/CMakeFiles/Assignment2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Assignment2.dir/depend
 

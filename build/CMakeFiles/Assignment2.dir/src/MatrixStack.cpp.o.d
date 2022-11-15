@@ -1,6 +1,6 @@
 CMakeFiles/Assignment2.dir/src/MatrixStack.cpp.o: \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.cpp \
-  /Users/andrewplant/documents/csce441/assignment2/SkeletonCode/src/MatrixStack.h \
+  /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.cpp \
+  /Users/andrewplant/documents/csce441/assignment2/src/MatrixStack.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stack \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/pthread.h \
